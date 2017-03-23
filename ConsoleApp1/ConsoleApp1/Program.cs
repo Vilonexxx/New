@@ -13,7 +13,6 @@ namespace ConsoleApp1
             Console.WriteLine("Привет,друг! как тебя зовут?");
             var name = Console.ReadLine();
             Console.WriteLine("Привет, " + name);
-            Console.WriteLine("Как дела?");
             Console.ReadLine();
         }
     }
